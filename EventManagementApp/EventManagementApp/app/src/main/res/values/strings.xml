@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment 3</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_google_maps">GoogleMapsActivity</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCiITg86Q2DaG8pIPXwa_5wN0fo6xa2S9Y</string>
+</resources>
