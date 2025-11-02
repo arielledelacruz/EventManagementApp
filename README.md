@@ -1,2 +1,2 @@
 # EventManagementApp
-Event Management Application build on Android Studio.
+Event Management Application built on Android Studio.
